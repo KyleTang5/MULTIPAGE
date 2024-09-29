@@ -1,0 +1,35 @@
+body {
+    background-color: #67A4C0;
+    margin: 0;
+}
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #698896;
+}
+
+nav a {
+    text-decoration: none;
+    color: #3C3841;
+}
+.welcome {
+    position: relative;
+    text-align: center;
+    top: 80px;
+    color: #3C3841;
+}
+.about {
+    position: relative;
+    top: 80px;
+    margin-bottom: 20px;
+    color: #3C3841;
+}
+.images {
+    position: relative;
+    top: 80px;
+    height: 200px;
+    float: left;
+    margin-left: 80px;
+}
